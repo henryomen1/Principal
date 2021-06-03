@@ -1,5 +1,5 @@
-# Principal
-#  Limpeza saída de arquivos hadoop streaming (mrjob)
+# Executa programa MapReduce para contagem de artigos por autores
+# Limpeza saída de arquivos hadoop streaming (mrjob)
 echo " "
 echo "============================="
 echo "hdfs dfs -rm -R saida1"
